@@ -1,0 +1,30 @@
+- id: blogTitle
+  translation: 최근 글
+- id: readMore
+  translation: 더보기
+- id: viewAllPost
+  translation: 전체글보기
+- id: share
+  translation: 공유하기
+- id: aboutAuthor
+  translation: About author
+- id: authorsPosts
+  translation: Author's posts
+- id: all
+  translation: All
+- id: about
+  translation: About Us
+- id: services
+  translation: Service
+- id: portfolio
+  translation: Portfolio
+- id: team
+  translation: Team
+- id: pricing
+  translation: Pricing
+- id: blog
+  translation: Blog
+- id: contact
+  translation: Contact
+- id: themefisher
+  translation: Themefisher

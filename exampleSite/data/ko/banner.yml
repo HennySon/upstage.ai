@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "모두를 위한 AI, AI를 위한 모두"
+  content : "Accelerating AI transformation"
+  button:
+    enable : true
+    label : "자세히보기"
+    link : "#about"

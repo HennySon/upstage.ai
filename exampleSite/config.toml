@@ -134,18 +134,27 @@ link = "#"
 
 ################################ English Language ########################
 [Languages.en]
-languageName = "En"
+languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+################################ Korean Language ########################
+[Languages.ko]
+languageName = "Korean"
+languageCode = "ko-ko"
+contentDir = "content/korean"
+weight = 1
+home = "처음으로"
+copyright = "저작권 &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+#
+################################ Chinese Language ########################
+[Languages.zh]
+languageName = "Chinese"
+languageCode = "zh-CN"
+contentDir = "content/chinese"
 weight = 2
-home = "Accueil"
+home = "Home"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
