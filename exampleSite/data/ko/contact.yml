@@ -17,14 +17,15 @@ contact:
 #      info : "Fax: +880-31-000-000"
 
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "문의사항: contact@upstage.ai"
+      info : "Email: contact@upstage.ai"
 
-# Contact form
-#   contact_form:
-#     enable : true
-#     form_action : "#" #contact form works with https://formspree.io
-#     name : "이름"
-#     email : "이메일주소"
-#     subject : "제목"
-#     message : "내용"
-#     submit : "제출하기"
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "이름"
+    email : "이메일주소"
+    subject : "제목"
+    message : "내용"
+    submit : "제출하기"
