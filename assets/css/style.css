@@ -2280,3 +2280,8 @@ figcaption {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+/*=== UpstageAI custom styles ===*/
+body {
+    word-break: keep-all;
+}
