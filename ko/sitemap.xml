@@ -3,242 +3,242 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/ko/news/</loc>
+    <loc>./ko/news/</loc>
     <lastmod>2020-09-19T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/ko/</loc>
+    <loc>./ko/</loc>
     <lastmod>2020-09-19T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="./"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/"
+                href="./ko/"
                 />
   </url>
   
   <url>
-    <loc>/ko/news/2020-09-19-connect-x-upstageai/</loc>
+    <loc>./ko/news/2020-09-19-connect-x-upstageai/</loc>
     <lastmod>2020-09-19T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/ko/news/2020-08-20-seed-funding/</loc>
+    <loc>./ko/news/2020-08-20-seed-funding/</loc>
     <lastmod>2020-08-20T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/ko/blog/simple-blog-post-8/</loc>
+    <loc>./ko/blog/simple-blog-post-8/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/simple-blog-post-8/"
+                href="./blog/simple-blog-post-8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/blog/simple-blog-post-8/"
+                href="./ko/blog/simple-blog-post-8/"
                 />
   </url>
   
   <url>
-    <loc>/ko/blog/</loc>
+    <loc>./ko/blog/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/"
+                href="./blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/blog/"
+                href="./ko/blog/"
                 />
   </url>
   
   <url>
-    <loc>/ko/blog/installation/</loc>
+    <loc>./ko/blog/installation/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/installation/"
+                href="./blog/installation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/blog/installation/"
+                href="./ko/blog/installation/"
                 />
   </url>
   
   <url>
-    <loc>/ko/blog/simple-blog-post-1/</loc>
+    <loc>./ko/blog/simple-blog-post-1/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/simple-blog-post-1/"
+                href="./blog/simple-blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/blog/simple-blog-post-1/"
+                href="./ko/blog/simple-blog-post-1/"
                 />
   </url>
   
   <url>
-    <loc>/ko/blog/simple-blog-post-2/</loc>
+    <loc>./ko/blog/simple-blog-post-2/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/simple-blog-post-2/"
+                href="./blog/simple-blog-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/blog/simple-blog-post-2/"
+                href="./ko/blog/simple-blog-post-2/"
                 />
   </url>
   
   <url>
-    <loc>/ko/blog/simple-blog-post-3/</loc>
+    <loc>./ko/blog/simple-blog-post-3/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/simple-blog-post-3/"
+                href="./blog/simple-blog-post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/blog/simple-blog-post-3/"
+                href="./ko/blog/simple-blog-post-3/"
                 />
   </url>
   
   <url>
-    <loc>/ko/blog/simple-blog-post-4/</loc>
+    <loc>./ko/blog/simple-blog-post-4/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/simple-blog-post-4/"
+                href="./blog/simple-blog-post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/blog/simple-blog-post-4/"
+                href="./ko/blog/simple-blog-post-4/"
                 />
   </url>
   
   <url>
-    <loc>/ko/blog/simple-blog-post-5/</loc>
+    <loc>./ko/blog/simple-blog-post-5/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/simple-blog-post-5/"
+                href="./blog/simple-blog-post-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/blog/simple-blog-post-5/"
+                href="./ko/blog/simple-blog-post-5/"
                 />
   </url>
   
   <url>
-    <loc>/ko/blog/simple-blog-post-6/</loc>
+    <loc>./ko/blog/simple-blog-post-6/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/simple-blog-post-6/"
+                href="./blog/simple-blog-post-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/blog/simple-blog-post-6/"
+                href="./ko/blog/simple-blog-post-6/"
                 />
   </url>
   
   <url>
-    <loc>/ko/blog/simple-blog-post-7/</loc>
+    <loc>./ko/blog/simple-blog-post-7/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/simple-blog-post-7/"
+                href="./blog/simple-blog-post-7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/blog/simple-blog-post-7/"
+                href="./ko/blog/simple-blog-post-7/"
                 />
   </url>
   
   <url>
-    <loc>/ko/author/</loc>
+    <loc>./ko/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/"
+                href="./author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/author/"
+                href="./ko/author/"
                 />
   </url>
   
   <url>
-    <loc>/ko/categories/</loc>
+    <loc>./ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="./categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/categories/"
+                href="./ko/categories/"
                 />
   </url>
   
   <url>
-    <loc>/ko/author/pr-team/</loc>
+    <loc>./ko/author/pr-team/</loc>
   </url>
   
   <url>
-    <loc>/ko/author/mark-dinn/</loc>
+    <loc>./ko/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/mark-dinn/"
+                href="./author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/author/mark-dinn/"
+                href="./ko/author/mark-dinn/"
                 />
   </url>
   
   <url>
-    <loc>/ko/tags/</loc>
+    <loc>./ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="./tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/tags/"
+                href="./ko/tags/"
                 />
   </url>
   
