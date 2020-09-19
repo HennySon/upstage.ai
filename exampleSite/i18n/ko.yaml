@@ -1,5 +1,7 @@
 - id: blogTitle
   translation: 최근 글
+- id: newsroomTitle
+  translation: 뉴스룸
 - id: readMore
   translation: 더보기
 - id: viewAllPost
@@ -13,18 +15,20 @@
 - id: all
   translation: All
 - id: about
-  translation: About Us
+  translation: 회사소개
 - id: services
-  translation: Service
+  translation: 서비스
 - id: portfolio
-  translation: Portfolio
+  translation: 포트폴리오
 - id: team
-  translation: Team
+  translation: 팀
 - id: pricing
-  translation: Pricing
+  translation: 가격정책
 - id: blog
-  translation: Blog
+  translation: 블로그
+- id: newsroom
+  translation: 뉴스룸
 - id: contact
-  translation: Contact
+  translation: 연락하기
 - id: themefisher
   translation: Themefisher

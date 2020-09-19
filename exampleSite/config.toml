@@ -46,14 +46,19 @@ name = "about"
 URL = "about"
 weight = 1
 
-[[menu.main]]
-name = "services"
-URL = "services"
-weight = 2
+# [[menu.main]]
+# name = "services"
+# URL = "services"
+# weight = 2
+
+# [[menu.main]]
+# name = "portfolio"
+# URL = "portfolio"
+# weight = 3
 
 [[menu.main]]
-name = "portfolio"
-URL = "portfolio"
+name = "newsroom"
+URL = "newsroom"
 weight = 3
 
 [[menu.main]]
@@ -61,15 +66,15 @@ name = "team"
 URL = "team"
 weight = 4
 
-[[menu.main]]
-name = "pricing"
-URL = "pricing"
-weight = 5
+# [[menu.main]]
+# name = "pricing"
+# URL = "pricing"
+# weight = 5
 
-[[menu.main]]
-name = "blog"
-URL = "blog"
-weight = 6
+# [[menu.main]]
+# name = "blog"
+# URL = "blog"
+# weight = 6
 
 [[menu.main]]
 name = "contact"
@@ -77,10 +82,10 @@ URL = "contact"
 weight = 7
 
 #### external / static link ####
-[[menu.static]]
-name = "themefisher"
-URL = "https://themefisher.com/"
-weight = 8
+# [[menu.static]]
+# name = "themefisher"
+# URL = "https://themefisher.com/"
+# weight = 8
 
 ############################# Default Parameters ##########################
 [params]
@@ -139,7 +144,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 UpstageAI"
 
 ################################ Korean Language ########################
 [Languages.ko]
@@ -148,13 +153,13 @@ languageCode = "ko-ko"
 contentDir = "content/korean"
 weight = 1
 home = "처음으로"
-copyright = "저작권 &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-#
+copyright = "Copyright &copy; 2020 UpstageAI"
+
 ################################ Chinese Language ########################
 [Languages.zh]
 languageName = "Chinese"
-languageCode = "zh-CN"
+languageCode = "zh-cn"
 contentDir = "content/chinese"
 weight = 2
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 UpstageAI"

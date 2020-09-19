@@ -1,31 +1,31 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  title : 연락하기
+  subtitle : 연락 정보
+  content : ""
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
-      
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
-      
+      info : "경기도 용인시 기흥구 동백중앙로 191, 8층 에이8127호 (중동, 씨티프라자)"
+
+#   - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+#     info : "Phone: +880-31-000-000"
+
+#    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+#      info : "Fax: +880-31-000-000"
+
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: contact@upstage.ai"
 
 
   # Contact form
   contact_form:
     enable : true
     form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    name : "이름"
+    email : "이메일주소"
+    subject : "제목"
+    message : "내용"
+    submit : "제출하기"
