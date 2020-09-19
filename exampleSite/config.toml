@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://upstage.ai"
+baseURL = "/"
 title = "UpstageAI"
 theme = "meghna-hugo"
 # post pagination
