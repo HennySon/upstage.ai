@@ -1,15 +1,14 @@
-############################# About ###################################
 about:
   enable : true
   title : 회사소개
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : 개발자를 위한 AI 교육
-    content : "We accelerate your journey into AI: Through a unique AI curriculum lead by world-class researchers and instructors, we assist software engineers' transformation into AI engineers."
+    title : 개발자를 위한 AI
+    content : "세계적인 연구자와 강사진이 구성한 독특한 AI 커리큘럼을 통해 개발자들이 AI 엔지니어로 커리어를 전향할 수 있도록 돕습니다."
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : 비지니스를 위한 AI 컨설팅
-    content : "We empower your business with AI: From problem definition to training AI models, we help you transform into an AI business with the most essential guidelines and tools."
+    title : 비지니스를 위한 AI
+    content : "문제 정의부터 AI 모델 학습까지, 가이드라인과 각종 툴을 통해 비즈니스들이 AI를 효과적으로 도입할 수 있도록 돕습니다."
 
 #   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
 #     title : 솔루션
