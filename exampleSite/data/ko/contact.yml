@@ -1,7 +1,7 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : 연락하기
+  title : 연락처
   subtitle : ""
   content : ""
 

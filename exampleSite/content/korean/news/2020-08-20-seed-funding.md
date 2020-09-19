@@ -1,7 +1,7 @@
 ---
 title: "시드투자 유치 확정"
 date: 2020-08-20T14:51:12+06:00
-author: PR
+author: PR Team
 image: images/blog/meghna.jpg
 ---
 
