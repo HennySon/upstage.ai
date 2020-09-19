@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
-title = "Meghna"
+baseURL = "https://upstage.ai"
+title = "UpstageAI"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -9,7 +9,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = []
+disableLanguages = ["Chinese"]
 
 ############################# Plugins ##########################
 # css plugins
@@ -91,8 +91,8 @@ weight = 7
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Themefisher"
+description = "UpstageAI"
+author = "UpstageAI"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -104,12 +104,12 @@ enable = true
 preloader = "images/logo.png"
 
 # google map
-[params.map]
-enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
+# [params.map]
+# enable = true
+# gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+# map_latitude = "51.5223477"
+# map_longitude = "-0.1622023"
+# map_marker = "images/marker.png"
 
 ############################# social icons ##########################
 [[params.social]]
@@ -128,13 +128,13 @@ link = "#"
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
+# 
+# [[params.social]]
+# icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
 
 
 ################################ English Language ########################
@@ -151,15 +151,15 @@ copyright = "Copyright &copy; 2020 UpstageAI"
 languageName = "Korean"
 languageCode = "ko-ko"
 contentDir = "content/korean"
-weight = 1
+weight = 2
 home = "처음으로"
 copyright = "Copyright &copy; 2020 UpstageAI"
 
-################################ Chinese Language ########################
-[Languages.zh]
-languageName = "Chinese"
-languageCode = "zh-cn"
-contentDir = "content/chinese"
-weight = 2
-home = "Home"
-copyright = "Copyright &copy; 2020 UpstageAI"
+# ################################ Chinese Language ########################
+# [Languages.zh]
+# languageName = "Chinese"
+# languageCode = "zh-cn"
+# contentDir = "content/chinese"
+# weight = 2
+# home = "Home"
+# copyright = "Copyright &copy; 2020 UpstageAI"
