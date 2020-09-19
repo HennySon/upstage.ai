@@ -81,6 +81,11 @@ name = "contact"
 URL = "contact"
 weight = 7
 
+[[menu.main]]
+name = "careers"
+URL = "careers"
+weight = 8
+
 #### external / static link ####
 # [[menu.static]]
 # name = "themefisher"

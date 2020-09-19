@@ -2,6 +2,8 @@
   translation: 최근 글
 - id: newsTitle
   translation: 뉴스룸
+- id: careersTitle
+  translation: 채용
 - id: readMore
   translation: 더보기
 - id: viewAllPost
@@ -30,5 +32,7 @@
   translation: 뉴스
 - id: contact
   translation: 연락처
+- id: careers
+  translation: 채용
 - id: themefisher
   translation: Themefisher

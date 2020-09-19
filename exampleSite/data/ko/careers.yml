@@ -1,0 +1,10 @@
+careers:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "We are hiring!"
+  content : "At UpstageAI, you’ll be part of an energetic, rapidly growing team with incredible opportunities for growth and advancement. We welcome you to be part of the stage."
+  button:
+    enable : true
+    label : "더 알아보기"
+    link : "https://careers.upstage.ai"
