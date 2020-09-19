@@ -1,6 +1,6 @@
 - id: blogTitle
   translation: 최근 글
-- id: newsroomTitle
+- id: newsTitle
   translation: 뉴스룸
 - id: readMore
   translation: 더보기
@@ -26,8 +26,8 @@
   translation: 가격정책
 - id: blog
   translation: 블로그
-- id: newsroom
-  translation: 뉴스룸
+- id: news
+  translation: 뉴스
 - id: contact
   translation: 연락하기
 - id: themefisher
