@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: #565656;
 }
 
 p {
@@ -39,7 +39,7 @@ p {
 }
 
 pre {
-  color: #afbac4;
+  color: #565656;
 }
 
 /*=================================================================
@@ -121,7 +121,7 @@ a:hover {
 }
 
 .border-meghna {
-  border-top: 2px solid rgba(236, 239, 241, 0.07);
+  border-top: 2px solid rgba(36, 39, 41, 0.07);
   height: 1px;
   margin: 15px auto 0;
   position: relative;
@@ -167,7 +167,7 @@ a:hover {
 }
 
 .bg-dark {
-  background: #242930;
+  background: #efefef;
 }
 
 .parallax-section {
@@ -323,7 +323,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #292F36;
+  background: #eee;
 }
 
 .overly {
@@ -546,7 +546,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #242930;
+  background: #efefef;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
@@ -569,8 +569,8 @@ a:hover {
   background-color: transparent;
   margin: 46.19px auto 60px;
   padding: 20px 0;
-  border-left: 2px solid rgba(236, 239, 241, 0.07);
-  border-right: 2px solid rgba(236, 239, 241, 0.07);
+  border-left: 2px solid rgba(36, 39, 41, 0.07);
+  border-right: 2px solid rgba(36, 39, 41, 0.07);
   font-size: 50px;
   -webkit-transform: translateZ(0px);
   transform: translateZ(0px);
@@ -595,18 +595,18 @@ a:hover {
 
 .about .block .icon-box:before {
   top: -56.5685px;
-  border-top: 2px solid rgba(236, 239, 241, 0.07);
-  border-right: 2px solid rgba(236, 239, 241, 0.07);
+  border-top: 2px solid rgba(36, 39, 41, 0.07);
+  border-right: 2px solid rgba(36, 39, 41, 0.07);
 }
 
 .about .block .icon-box:after {
   bottom: -56.5685px;
-  border-bottom: 2px solid rgba(236, 239, 241, 0.07);
-  border-left: 2px solid rgba(236, 239, 241, 0.07);
+  border-bottom: 2px solid rgba(36, 39, 41, 0.07);
+  border-left: 2px solid rgba(36, 39, 41, 0.07);
 }
 
 .about .block .icon-box h3 {
-  color: #afbac4;
+  color: #565656;
 }
 
 /*=================================================================
@@ -696,7 +696,7 @@ a:hover {
   border-radius: 0;
   padding: 5px 10px;
   color: #ddd;
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid rgba(36, 39, 41, 0.07);
 }
 
 .form-meghna .form-control:focus {
@@ -710,7 +710,7 @@ a:hover {
 }
 
 #contact-submit {
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid rgba(36, 39, 41, 0.07);
   background: #f0932b;
   padding: 12px 0;
   width: 100%;
@@ -772,7 +772,7 @@ a:hover {
 .counters-item {
   padding: 25px 0;
   margin-bottom: 10px;
-  background: #292F36;
+  background: #eee;
 }
 
 .counters-item i {
@@ -797,13 +797,13 @@ a:hover {
   Pricing section
 ==================================================================*/
 .price-item {
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid rgba(36, 39, 41, 0.07);
   padding-bottom: 30px;
   margin-bottom: 15px;
 }
 
 .price-title {
-  background-color: #292F36;
+  background-color: #eee;
   padding: 30px 0 20px;
 }
 
@@ -835,12 +835,12 @@ a:hover {
 }
 
 .pricing li:last-child {
-  border-bottom: 1px solid rgba(236, 239, 241, 0.07);
+  border-bottom: 1px solid rgba(36, 39, 41, 0.07);
   margin-bottom: 20px;
 }
 
 .pricing li:nth-child(2n) {
-  background-color: #292F36;
+  background-color: #eee;
 }
 
 .pricing li .btn {
@@ -858,7 +858,7 @@ a:hover {
 
 .portfolio-filter .btn {
   outline: 0;
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid rgba(36, 39, 41, 0.07);
   background: transparent;
   display: inline-block;
   font-size: 16px;
@@ -946,7 +946,7 @@ a:hover {
 ==================================================================*/
 .service-block {
   padding: 60px 20px;
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid rgba(36, 39, 41, 0.07);
   margin-bottom: 40px;
 }
 
@@ -1018,7 +1018,7 @@ a:hover {
   Our Team
 ==================================================================*/
 .team-member {
-  background-color: #292F36;
+  background-color: #eee;
   margin-bottom: 10px;
 }
 
@@ -1125,7 +1125,7 @@ a:hover {
 }
 
 .client-comment p {
-  color: #afbac4;
+  color: #565656;
   font-size: 18px;
 }
 
@@ -1212,12 +1212,12 @@ a:hover {
   Latest Posts
 ==================================================================*/
 .note {
-  background-color: #292F36;
+  background-color: #eee;
   border: 1px solid #4e595f;
 }
 
 .post-block {
-  background-color: #292F36;
+  background-color: #eee;
   margin-bottom: 10px;
 }
 
@@ -1453,8 +1453,7 @@ a:hover {
 }
 
 .post-comment {
-  background-color: #292f36;
-  ;
+  background-color: #eee;
   padding: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -1487,7 +1486,7 @@ a:hover {
 }
 
 .post-comment-name {
-  color: #afbac4;
+  color: #565656;
   font-weight: 500;
   font-size: 18px;
 }
@@ -1517,7 +1516,7 @@ input#e-mail,
 }
 
 .social-icon ul li a {
-  background-color: #26292e;
+  background-color: #dfdfdf;
   border: 1px solid transparent;
   display: block;
   height: 70px;
@@ -1992,7 +1991,7 @@ blockquote {
   background-color: transparent;
   padding: 5px 10px;
   color: #ddd;
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid rgba(36, 39, 41, 0.07);
 }
 
 .form-control-meghna .form-control:focus {
@@ -2241,8 +2240,8 @@ figcaption {
   width: 40px;
   height: 40px;
   border-radius: 0;
-  background-color: #26292e;
-  border: 1px solid #26292e;
+  background-color: #dfdfdf;
+  border: 1px solid #dfdfdf;
   text-align: center;
   margin-right: 6px;
   font-weight: 700;
@@ -2267,7 +2266,7 @@ figcaption {
 }
 
 #select-language {
-  background: #ffffff;
+  background: #353b43;
   color: #ffffff;
   border: 0;
   margin: 8px;
