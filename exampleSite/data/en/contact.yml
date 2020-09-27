@@ -10,12 +10,6 @@ contact:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "191, Dongbaekjungang-ro, Giheung-gu, Yongin-si, Gyeonggi-do, Republic of Korea (Zipcode: 17006)"
 
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +82-00-000-000"
-
-#    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-#      info : "Fax: +880-31-000-000"
-
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "contact@upstage.ai"
 
