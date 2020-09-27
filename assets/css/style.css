@@ -1056,7 +1056,8 @@ a:hover {
 .member-photo .mask ul {
   text-align: center;
   position: relative;
-  top: 10px;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .member-photo .mask ul li {
