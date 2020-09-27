@@ -26,7 +26,7 @@
 
 	<!-- Main Stylesheet -->
 	
-	<link rel="stylesheet" href="/css/style.min.67b19308b31891ae29a862f3c96480713815cd830983dcab139016303c71127c7253f139c7360f86e9c8c5098276f400.css" integrity="sha384-Z7GTCLMYka4pqGLzyWSAcTgVzYMJg9yrE5AWMDxxEnxyU/E5xzYPhunIxQmCdvQA" media="screen">
+	<link rel="stylesheet" href="/css/style.min.d4d3650eb114436e2d7e95bbec60576fce862d6dbb095ed425a2072c8b59172fa4c59a77f28ce886daa573d55e1be193.css" integrity="sha384-1NNlDrEUQ24tfpW77GBXb86GLW27CV7UJaIHLItZFy&#43;kxZp38ozohtqlc9VeG&#43;GT" media="screen">
 
   <!-- Custom stylesheet - for your changes -->
   <link rel="stylesheet" href="/css/custom.css" media="screen">
@@ -35,6 +35,16 @@
 	<link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
 	<link rel="icon" href="/images/favicon.png" type="image/x-icon">
 
+	
+	<!-- Global Site Tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179083713-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-179083713-1');
+	</script>
 	
 
 </head>
@@ -46,7 +56,7 @@
 <!-- preloader start -->
 <div class="preloader">
   
-  <img src="/images/logo.png" alt="preloader">
+  <img src="/images/logo.png" height="42px" alt="preloader">
   
 </div>
 <!-- preloader end -->
@@ -56,9 +66,9 @@
 <section class="sticky-top navigation">
 	<div class="container">
 		<nav class="navbar navbar-expand-lg navbar-dark">
-			<a class="navbar-brand p-0" href="/ko">
+            <a class="navbar-brand p-0" href="/ko/">
 				
-				<img class="lozad" data-src="/images/logo.png" alt="UpstageAI" height="42">
+				<img class="lozad" data-src="/images/logo.png" alt="UpstageAI" height="21">
 				
 			</a>
 
@@ -75,12 +85,6 @@
 					</li>
 					
 					<li class="nav-item"><a class="nav-link" href="/ko#news">뉴스</a>
-					</li>
-					
-					<li class="nav-item"><a class="nav-link" href="/ko#team">팀</a>
-					</li>
-					
-					<li class="nav-item"><a class="nav-link" href="/ko#contact">연락처</a>
 					</li>
 					
 					<li class="nav-item"><a class="nav-link" href="/ko#careers">채용</a>
@@ -292,12 +296,35 @@ hugo--minify
 </section>
 
 
-  </div><!-- end Contact Area -->
+  </div>
+
+
+
+<!-- end Contact Area -->
 <footer id="footer" class="section-bg">
 	<div class="container">
 		<div class="row wow fadeInUp" data-wow-duration="500ms">
-			<div class="col-xl-12">
 
+			<div class="col-xl-12 row contact-details">
+				
+				<div class="con-info clearfix col-lg-4">
+					<i class="ti-location-pin"></i>
+					<span>경기도 용인시 기흥구 동백중앙로 191, 8층 에이8127호 (중동, 씨티프라자)</span>
+				</div>
+				
+				<div class="con-info clearfix col-lg-4">
+					<i class="ti-mobile"></i>
+					<span>Phone: &#43;82-00-000-000</span>
+				</div>
+				
+				<div class="con-info clearfix col-lg-4">
+					<i class="ti-email"></i>
+					<span>contact@upstage.ai</span>
+				</div>
+				
+			</div>
+
+			<div class="col-xl-12">
 				<!-- Footer Social Links -->
 				<div class="social-icon">
 					<ul class="list-inline">
@@ -306,17 +333,15 @@ hugo--minify
 						
 						<li class="list-inline-item"><a href="https://twitter.com/upstageai"><i class="ti-twitter-alt"></i></a></li>
 						
-						<li class="list-inline-item"><a href="https://www.linkedin.com/company/upstageai/"><i class="ti-linkedin"></i></a></li>
+						<li class="list-inline-item"><a href="https://www.youtube.com/channel/UCXJY5PPAToqqSketm5_PrDw"><i class="ti-youtube"></i></a></li>
+						
+						<li class="list-inline-item"><a href="https://www.linkedin.com/company/upstageai"><i class="ti-linkedin"></i></a></li>
 						
 					</ul>
 				</div>
 
 				<!-- copyright -->
 				<div class="copyright text-center">
-					<a href="/ko/">
-						<img src="/images/logo.png" alt="UpstageAI" height="42" />
-					</a>
-					<br>
 					<p>Copyright © 2020 UpstageAI</p>
 				</div>
 			</div>
@@ -324,6 +349,8 @@ hugo--minify
 	</div>
 </footer>
 <!-- /footer -->
+
+
 
 <!-- Google Map API -->
 
