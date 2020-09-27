@@ -56,15 +56,15 @@ weight = 1
 # URL = "portfolio"
 # weight = 3
 
+# [[menu.main]]
+# name = "team"
+# URL = "team"
+# weight = 2
+
 [[menu.main]]
 name = "news"
 URL = "news"
 weight = 3
-
-[[menu.main]]
-name = "team"
-URL = "team"
-weight = 4
 
 # [[menu.main]]
 # name = "pricing"
@@ -76,10 +76,10 @@ weight = 4
 # URL = "blog"
 # weight = 6
 
-[[menu.main]]
-name = "contact"
-URL = "contact"
-weight = 7
+# [[menu.main]]
+# name = "contact"
+# URL = "contact"
+# weight = 7
 
 [[menu.main]]
 name = "careers"
