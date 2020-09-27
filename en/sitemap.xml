@@ -3,53 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/simple-blog-post-8/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <loc>/en/news/</loc>
+    <lastmod>2020-09-19T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/blog/simple-blog-post-8/"
+                href="/ko/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/simple-blog-post-8/"
+                href="/en/news/"
                 />
   </url>
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/installation/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/installation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/installation/"
-                />
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <loc>/en/</loc>
+    <lastmod>2020-09-19T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -58,131 +28,42 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/en/"
                 />
   </url>
   
   <url>
-    <loc>/blog/simple-blog-post-1/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <loc>/en/news/2020-09-19-connect-x-upstageai/</loc>
+    <lastmod>2020-09-19T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/blog/simple-blog-post-1/"
+                href="/ko/news/2020-09-19-connect-x-upstageai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/simple-blog-post-1/"
+                href="/en/news/2020-09-19-connect-x-upstageai/"
                 />
   </url>
   
   <url>
-    <loc>/blog/simple-blog-post-2/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <loc>/en/news/2020-08-20-seed-funding/</loc>
+    <lastmod>2020-08-20T14:51:12+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/blog/simple-blog-post-2/"
+                href="/ko/news/2020-08-20-seed-funding/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/simple-blog-post-2/"
+                href="/en/news/2020-08-20-seed-funding/"
                 />
   </url>
   
   <url>
-    <loc>/blog/simple-blog-post-3/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/simple-blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/simple-blog-post-3/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/simple-blog-post-4/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/simple-blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/simple-blog-post-4/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/simple-blog-post-5/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/simple-blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/simple-blog-post-5/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/simple-blog-post-6/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/simple-blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/simple-blog-post-6/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/simple-blog-post-7/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/simple-blog-post-7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/simple-blog-post-7/"
-                />
-  </url>
-  
-  <url>
-    <loc>/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/"
-                />
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -191,30 +72,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>/author/john-doe/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/mark-dinn/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -223,7 +86,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/en/tags/"
                 />
   </url>
   

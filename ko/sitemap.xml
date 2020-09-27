@@ -5,6 +5,16 @@
   <url>
     <loc>/ko/news/</loc>
     <lastmod>2020-09-19T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/news/"
+                />
   </url>
   
   <url>
@@ -13,7 +23,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -25,174 +35,30 @@
   <url>
     <loc>/ko/news/2020-09-19-connect-x-upstageai/</loc>
     <lastmod>2020-09-19T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/news/2020-09-19-connect-x-upstageai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/news/2020-09-19-connect-x-upstageai/"
+                />
   </url>
   
   <url>
     <loc>/ko/news/2020-08-20-seed-funding/</loc>
     <lastmod>2020-08-20T14:51:12+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/ko/blog/simple-blog-post-8/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/simple-blog-post-8/"
+                href="/en/news/2020-08-20-seed-funding/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/blog/simple-blog-post-8/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/blog/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/blog/installation/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/installation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/installation/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/blog/simple-blog-post-1/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/simple-blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/simple-blog-post-1/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/blog/simple-blog-post-2/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/simple-blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/simple-blog-post-2/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/blog/simple-blog-post-3/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/simple-blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/simple-blog-post-3/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/blog/simple-blog-post-4/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/simple-blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/simple-blog-post-4/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/blog/simple-blog-post-5/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/simple-blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/simple-blog-post-5/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/blog/simple-blog-post-6/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/simple-blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/simple-blog-post-6/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/blog/simple-blog-post-7/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/simple-blog-post-7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/blog/simple-blog-post-7/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/author/"
+                href="/ko/news/2020-08-20-seed-funding/"
                 />
   </url>
   
@@ -201,7 +67,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -211,29 +77,11 @@
   </url>
   
   <url>
-    <loc>/ko/author/pr-team/</loc>
-  </url>
-  
-  <url>
-    <loc>/ko/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/author/mark-dinn/"
-                />
-  </url>
-  
-  <url>
     <loc>/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
