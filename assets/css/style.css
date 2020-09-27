@@ -32,6 +32,7 @@ h6 {
 
 p {
   font-family: "Quattrocento Sans", sans-serif;
+  text-align: justify;
 }
 
 [scroll-behavior=smooth] {
@@ -45,16 +46,6 @@ pre {
 /*=================================================================
   Basic Setup
 ==================================================================*/
-::-moz-selection {
-  /* Code for Firefox */
-  color: #353b43;
-  background: #f0932b;
-}
-
-::selection {
-  color: #353b43;
-  background: #f0932b;
-}
 
 hr {
   border-top: 1px solid rgba(255, 255, 255, .1);
@@ -103,10 +94,6 @@ a:hover {
   padding: 10px 30px;
   border-radius: 0;
   transition: all .3s ease-in 0s;
-}
-
-.btn:focus {
-  color: #ddd;
 }
 
 .btn-transparent {
@@ -229,7 +216,7 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #2c9091;
+  background: #f9ca24;
   color: #353b43;
 }
 
@@ -259,10 +246,6 @@ a:hover {
 
 .section-xs {
   padding: 50px 0;
-}
-
-.btn:focus {
-  color: #ddd;
 }
 
 #home {
@@ -300,7 +283,6 @@ a:hover {
 }
 
 .title h2 {
-  text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
   color: #353b43;
@@ -323,7 +305,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #eee;
+  background: #1d2024;
 }
 
 .overly {
@@ -475,7 +457,6 @@ a:hover {
 .hero-area .block h1 {
   font-size: 90px;
   color: #353b43;
-  text-transform: capitalize;
   font-weight: 700;
   margin-bottom: 20px;
 }
@@ -491,6 +472,7 @@ a:hover {
   font-size: 20px;
   width: 70%;
   margin: 0 auto;
+  text-align: center;
 }
 
 .hero-area .block .btn-transparent {
@@ -718,8 +700,8 @@ a:hover {
 }
 
 #contact-submit:hover {
-  border-color: #2c9091;
-  background-color: #2c9091;
+  border-color: #f9ca24;
+  background-color: #f9ca24;
 }
 
 .form-meghna ::placeholder {
@@ -736,6 +718,7 @@ a:hover {
 
 .con-info {
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .con-info i,
@@ -772,7 +755,7 @@ a:hover {
 .counters-item {
   padding: 25px 0;
   margin-bottom: 10px;
-  background: #eee;
+  background: #1d2024;
 }
 
 .counters-item i {
@@ -1018,7 +1001,6 @@ a:hover {
   Our Team
 ==================================================================*/
 .team-member {
-  background-color: #eee;
   margin-bottom: 10px;
 }
 
@@ -1057,7 +1039,7 @@ a:hover {
 }
 
 .member-photo .mask {
-  background-color: rgba(87, 203, 204, 0.7);
+  background-color: rgba(255, 190, 118, 0.7);
   position: absolute;
   text-align: center;
   height: 100%;
@@ -1074,7 +1056,11 @@ a:hover {
 .member-photo .mask ul {
   text-align: center;
   position: relative;
-  top: 125px;
+  top: 63px;
+}
+
+.member-photo .mask ul li {
+  margin-right: 0;
 }
 
 .member-photo .mask ul li a {
@@ -1086,6 +1072,8 @@ a:hover {
   line-height: 35px;
   text-align: center;
   width: 35px;
+  margin: 3px;
+  padding: 3px;
 }
 
 .member-photo .mask ul li a:hover {
@@ -1103,7 +1091,11 @@ a:hover {
 }
 
 .member-meta span {
-  font-size: 12px;
+  font-size: 14px;
+}
+
+.member-meta p {
+  text-align: left;
 }
 
 /*=================================================================
@@ -1229,7 +1221,6 @@ a:hover {
   margin: 0 0 6px;
   font-size: 20px;
   line-height: 1.5;
-  text-transform: capitalize;
 }
 
 .note .media-wrapper {
@@ -1239,7 +1230,6 @@ a:hover {
 .note .excerpt h3 {
   font-size: 20px;
   line-height: 1.5;
-  text-transform: capitalize;
 }
 
 .all-post {
@@ -1503,6 +1493,10 @@ input#e-mail,
 /*=================================================================
   Footer section
 ==================================================================*/
+footer {
+  padding-top: 50px;
+}
+
 .social-icon {
   padding: 60px 0 35px;
 }
@@ -1516,7 +1510,7 @@ input#e-mail,
 }
 
 .social-icon ul li a {
-  background-color: #dfdfdf;
+  background-color: #333;
   border: 1px solid transparent;
   display: block;
   height: 70px;
@@ -1529,7 +1523,7 @@ input#e-mail,
 }
 
 .social-icon ul li a:hover i {
-  color: #353b43;
+  color: #1d2024;
   opacity: 1;
 }
 
@@ -2269,7 +2263,9 @@ figcaption {
   background: #353b43;
   color: #ffffff;
   border: 0;
-  margin: 8px;
+  border-radius: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 .simple-icon {

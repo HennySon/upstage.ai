@@ -2,7 +2,7 @@
 
 {{ with $data.careers.careers}}
 {{"<!-- Start Call To Action -->" | safeHTML}}
-<section id="careers" class="call-to-action section-sm bg-1 overly" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
+<section id="careers" class="call-to-action section-sm bg-1 overly bg-gray">
 	<!-- this image is for trigger this section fallback background image -->
 	<img class="lozad" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'" data-src="{{ .bg_image_webp | absURL }}" />
 	<div class="container">

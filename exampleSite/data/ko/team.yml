@@ -7,7 +7,7 @@ team:
     - name : Sung Kim
       image : images/team/sung_kim.jpg
       designation : CEO/Founder
-      content : "전 Clova AI Head, SE와 ML을 연구하고 있는 학자이며, <모두를 위한 딥러닝> 강사."
+      content : "소프트웨어 엔지니어링과 머신러닝을 연구하는 학자. [모두를 위한 딥러닝](https://hunkim.github.io/ml/) 강사. 전 Clova AI Head."
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -15,14 +15,14 @@ team:
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "#"
 
     # team member loop
     - name : Hwalsuk Lee
       image : images/team/hwalsuk_lee.jpg
       designation : Founder
-      content : "전 Naver Clova Visual AI 책임리더, Ph.D. 네이버에 입사 후 2년 만에 밑바닥부터 세계 최고 수준의 OCR팀 빌딩 및 기술 확보. '19/'20에만 Top AI Conference에서 OCR관련 논문 10편 게재. 개발된 OCR 기술은 현재 한국/일본 등에서 수십여개 서비스에서 활용 중."
+      content : "머신러닝 총괄 및 컴퓨터 비전 엔지니어. 전 Naver Clova Visual AI 책임리더."
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -30,29 +30,29 @@ team:
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "#"
 
     # team member loop
     - name : Lucy Park
       image : images/team/lucy_park.jpg
       designation : Founder
-      content : "전 네이버 파파고 기계번역팀 리더. 기계번역과 다국어 NLP 연구를 통해 네이버 기계번역 품질 및 사용성 향상에 기여함. KoNLPy라는 한국어처리 오픈소스를 만들어 공개."
+      content : "자연어처리 엔지니어. [KoNLPy](http://konlpy.org/) 메인테이너. 전 네이버 파파고 기계번역팀 리더."
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://facebook.com/echojuliett"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://twitter.com/echojuliett"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://linkedin.com/in/echojuliett"
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : "https://github.com/e9t"
 
     # team member loop
     - name : Henny Son
       image : images/team/henny_son.jpg
       designation : Founder
-      content : "전 NVIDIA Developer Program Marketing Manager, AI/딥러닝 교육, AI Startup Global Accerelating program, 정부와의 AI 인재 양성 프로그램 기획을 통한 Business Initiative 전략 기획 및 운영"
+      content : "AI 교육 프로그램 기획 및 비즈니스 전략 기획. 전 NVIDIA 개발 프로그램 마케팅 리더."
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -60,14 +60,14 @@ team:
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "#"
 
     # team member loop
     - name : Sanghoon Kim
       image : images/team/sanghoon_kim.jpg
       designation : Founder
-      content : "세계에서 가장 유명한 인공지능 대회 플랫폼인 캐글의 그랜드마스터 (최상위 연구자). 캐글 전체 12위 (최고성적)"
+      content : "교육 프로그램 설계. [캐글 그랜드마스터](https://www.kaggle.com/limerobot). 전 eBay Korea 머신러닝 엔지니어."
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -75,14 +75,14 @@ team:
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "#"
 
     # team member loop
     - name : Jenny Moon
       image : images/team/jenny_moon.jpg
       designation : Founder
-      content : "NLP 연구와 서비스를 넘나들며 네이버 파파고의 기술과 품질 향상에 기여. Top NLP conference 논문 게재. "
+      content : "자연어처리 엔지니어 및 데이터 과학자. 전 파파고 기계번역팀 엔지니어."
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -90,14 +90,14 @@ team:
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "#"
 
     # team member loop
     - name : Sungjoon Park
       image : images/team/sungjoon_park.jpg
       designation : Founder
-      content : "NLP 연구자. Google PhD Fellowship Award (NLP) 수상. Top NLP conference 논문 게재 및 여러 스타트업 NLP 기술개발 자문."
+      content : "자연어처리 연구자. 전 Google PhD Fellowship Award (NLP) 수상."
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -105,14 +105,14 @@ team:
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "#"
 
     # team member loop
     - name : Junyeop Lee
       image : images/team/junyeop_lee.jpg
       designation : Founder
-      content : "머신러닝 엔지니어. 엔씨소프트 AI Cetner NLP LAB(전문연구요원) - NAVER Clova AI OCR 팀 테크리더. OCR 기술 연구 개발, 서버 개발, Project manager 담당. Computer vision 학회 논문 게재."
+      content : "머신러닝 연구, 서버 개발자. 전 네이버 클로바 OCR 팀 테크리더."
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -120,14 +120,14 @@ team:
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "#"
 
     # team member loop
     - name : Yura Sim
       image : images/team/yura_sim.jpg
       designation : Founder
-      content : "머신러닝 엔지니어. 엔씨소프트 AI Cetner NLP LAB(전문연구요원) - NAVER Clova AI OCR 팀 테크리더. OCR 기술 연구 개발, 서버 개발, Project manager 담당. Computer vision 학회 논문 게재."
+      content : "경영지원 및 기획. 전 네이버 경영지원팀."
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -135,7 +135,7 @@ team:
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "#"
 
   team_advisor:
@@ -143,7 +143,7 @@ team:
     - name : Russell Kim
       image : images/team/russell_kim.jpg
       designation : Advisor
-      content : "전 카카오 AI기술팀 팀장, 현 HKUST CSE 박사과정."
+      content : "추천시스템 기술 자문. 현 HKUST CSE 박사과정. 전 카카오 AI기술팀 팀장."
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -151,14 +151,14 @@ team:
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "#"
 
     # team advisor loop
     - name : Lei Chen
       image : images/team/lei_chen.jpg
       designation : Advisor
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      content : "홍콩 협력 및 기술 자문. 현 HKUST 교수."
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -166,14 +166,14 @@ team:
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "#"
 
     # team advisor loop
     - name : Jungwoo Ha
       image : images/team/jungwoo_ha.jpg
       designation : Advisor
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      content : "기술 자문. 현 네이버 클로바 AI 연구팀 리더"
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -181,14 +181,14 @@ team:
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "#"
 
     # team advisor loop
     - name : Kyunghyun Cho
       image : images/team/kyunghyun_cho.jpg
       designation : Advisor
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      content : "기술 자문. 현 뉴욕대 컴퓨터과학 및 데이터과학 조교수."
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -196,5 +196,5 @@ team:
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "#"

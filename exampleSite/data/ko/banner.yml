@@ -2,7 +2,7 @@
 banner:
   enable : true
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Benefit the world with AI"
+  title : "Benefiting the world with AI"
   content : "당신의 AI 트랜스포메이션을 도와드립니다."
   button:
     enable : true

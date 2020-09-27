@@ -1,9 +1,22 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.contact.contact.enable }}
+{{ with $data.contact.contact }}
 {{"<!-- end Contact Area -->" | safeHTML}}
 <footer id="footer" class="section-bg">
 	<div class="container">
 		<div class="row wow fadeInUp" data-wow-duration="500ms">
-			<div class="col-xl-12">
 
+			<div class="col-xl-12 row contact-details">
+				{{ range .contact_list }}
+				<div class="con-info clearfix col-lg-4">
+					<i class="{{ .icon }}"></i>
+					<span>{{ .info }}</span>
+				</div>
+				{{ end }}
+			</div>
+
+			<div class="col-xl-12">
 				{{"<!-- Footer Social Links -->" | safeHTML}}
 				<div class="social-icon">
 					<ul class="list-inline">
@@ -15,10 +28,6 @@
 
 				{{"<!-- copyright -->" | safeHTML}}
 				<div class="copyright text-center">
-					<a href="{{ site.Home.Permalink }}">
-						<img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" height="42" />
-					</a>
-					<br>
 					<p>{{ site.Params.copyright | markdownify }}</p>
 				</div>
 			</div>
@@ -26,6 +35,8 @@
 	</div>
 </footer>
 {{"<!-- /footer -->" | safeHTML}}
+{{ end }}
+{{ end }}
 
 {{ "<!-- Google Map API -->" | safeHTML }}
 {{ if site.Params.map.enable }}
