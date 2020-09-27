@@ -1,7 +1,7 @@
 <section class="sticky-top navigation">
 	<div class="container">
 		<nav class="navbar navbar-expand-lg navbar-dark">
-            <a class="navbar-brand p-0" href="{{ site.Home.Permalink | relLangURL }}">
+			<a class="navbar-brand p-0" href="{{ site.Home.Permalink | relLangURL }}">
 				{{ if site.Params.logo }}
 				<img class="lozad" data-src="{{ site.Params.logo | absURL }}" alt="{{ .Site.Title }}" height="21">
 				{{ else }}
@@ -16,16 +16,13 @@
 			<div class="collapse navbar-collapse" id="navigation">
 				<ul class="navbar-nav ml-auto">
 					{{ if .IsHome }}
-					{{ range site.Menus.main }}
-					<li class="nav-item"><a class="nav-link" href="#{{ .URL }}">{{ i18n .Name }}</a></li>
-					{{ end }}
-
+						{{ range site.Menus.main }}
+						<li class="nav-item"><a class="nav-link" href="#{{ .URL }}">{{ i18n .Name }}</a></li>
+						{{ end }}
 					{{ else }}
-
-					{{ range site.Menus.main }}
-					<li class="nav-item"><a class="nav-link" href="{{ site.BaseURL | relLangURL }}#{{ .URL }}">{{ i18n .Name }}</a>
-					</li>
-					{{ end }}
+						{{ range site.Menus.main }}
+						<li class="nav-item"><a class="nav-link" href="{{ site.Home.Permalink | relLangURL }}#{{ .URL }}">{{ i18n .Name }}</a></li>
+						{{ end }}
 					{{ end }}
 
 					{{ range site.Menus.static }}
