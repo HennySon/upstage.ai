@@ -2,7 +2,6 @@
 title: "네이버 커넥트재단 & UpstageAI"
 date: 2020-09-19T12:52:36+06:00
 image: images/blog/blog-post-3.jpg
-author: PR Team
 ---
 
 네이버 커넥트재단과 업스테이지가 함께 xxx해서 xxx했습니다.
