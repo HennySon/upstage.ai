@@ -138,7 +138,6 @@ team:
         - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "#"
 
-  team_advisor:
     # team advisor loop
     - name : Russell Kim
       image : images/team/russell_kim.jpg

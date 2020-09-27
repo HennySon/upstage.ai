@@ -1,11 +1,11 @@
 about:
   enable : true
-  title : About Us
+  title : About
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : AI Education for Developers
-    content : "We accelerate your journey into AI: Through a unique AI curriculum lead by world-class researchers and instructors, we assist software engineers' transformation into AI engineers."
+    title : AI for Developers
+    content : "We accelerate your journey into AI: Through a unique AI curriculum lead by world-class researchers and instructors, we assist your transformation into AI engineers."
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : AI Consulting for Businesses
+    title : AI for Businesses
     content : "We empower your business with AI: From problem definition to training AI models, we help you transform into an AI business with the most essential guidelines and tools."

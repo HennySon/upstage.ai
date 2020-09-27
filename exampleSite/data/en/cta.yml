@@ -1,11 +1,9 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : "Request a Pro-bono meeting"
+  content : "We provide 30 minute meetings each week to talk with organizations who would like to pursue artificial intelligence but do not have in-house expertise. If you are one of these organizations and might benefit from talking with us, please fill in the form below."
   button:
     enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    label : "Request a meeting"
+    link : "https://docs.google.com/forms/d/1JU7F7GIXav7x6LXRDDK5PxODbxccLVNNuLG3eaqL_0o"

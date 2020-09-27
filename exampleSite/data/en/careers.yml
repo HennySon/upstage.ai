@@ -1,0 +1,11 @@
+careers:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "We are hiring!"
+  content : "At UpstageAI, you’ll be part of an energetic, rapidly growing team with incredible opportunities for growth and advancement. If you are interested in joining us, please enlist to our talent pool by clicking the button below. Although we have limited positions, we will contact you as soon as we open positions."
+
+  button:
+    enable : true
+    label : "Enlist to talent pool"
+    link : "https://careers.upstage.ai"

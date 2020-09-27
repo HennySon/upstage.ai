@@ -1528,7 +1528,7 @@ footer {
 }
 
 .social-icon ul li a i {
-  color: #55606a;
+  color: #737f8a;
   display: inline-block;
   font-size: 32px;
   line-height: 70px;
@@ -1539,7 +1539,7 @@ footer {
 
 .copyright {
   padding: 20px 0;
-  color: #353b43;
+  color: #737f8a;
 }
 
 .copyright img {
@@ -2266,6 +2266,8 @@ figcaption {
   border-radius: 5px;
   padding-left: 5px;
   padding-right: 5px;
+  margin-top: 7px;
+  margin-bottom: 7px;
 }
 
 .simple-icon {
