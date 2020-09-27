@@ -10,6 +10,7 @@ summaryLength = "15"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = ["Chinese"]
+defaultContentLanguageInSubdir = true
 
 ############################# Plugins ##########################
 # css plugins
@@ -155,7 +156,7 @@ copyright = "Copyright &copy; 2020 UpstageAI"
 ################################ Korean Language ########################
 [Languages.ko]
 languageName = "Korean"
-languageCode = "ko-ko"
+languageCode = "ko-kr"
 contentDir = "content/korean"
 weight = 2
 home = "처음으로"
