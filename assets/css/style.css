@@ -13,10 +13,13 @@ html {
 }
 
 body {
-  background-color: #ffffff;
   font-family: "Anaheim", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
+
+  @media (prefers-color-scheme: dark) {
+    background-color: #33393d;
+  }
 }
 
 h1,
@@ -147,10 +150,6 @@ a:hover {
 .btn:active:focus,
 .btn:focus {
   outline: 0;
-}
-
-.bg-one {
-  background-color: #ffffff;
 }
 
 .bg-dark {
