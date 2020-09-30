@@ -11,7 +11,7 @@
           <li class="list-inline-item">{{ .Params.Author }}</li>
           <li class="list-inline-item">{{ dateFormat "Jan 2, 2006" .Date }}</li>
         </ul>
-        <img class="img-fluid mb-50 lozad" data-src="{{ .Params.Image | absURL }}" alt="blog-image">
+        <img class="img-fluid mb-50 lozad" data-src="{{ .Params.Image | absURL }}" alt="blog-image" style="max-height: 200px">
       </div>
       <div class="col-lg-8 offset-lg-2">
         <div class="post-single-content">
