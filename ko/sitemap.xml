@@ -3,66 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/ko/news/</loc>
-    <lastmod>2020-09-19T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/news/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/</loc>
-    <lastmod>2020-09-19T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/news/2020-09-19-connect-x-upstageai/</loc>
-    <lastmod>2020-09-19T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/news/2020-09-19-connect-x-upstageai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/news/2020-09-19-connect-x-upstageai/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/news/2020-08-20-seed-funding/</loc>
-    <lastmod>2020-08-20T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/news/2020-08-20-seed-funding/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/news/2020-08-20-seed-funding/"
-                />
-  </url>
-  
-  <url>
     <loc>/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -87,6 +27,20 @@
                 rel="alternate"
                 hreflang="ko"
                 href="/ko/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ko/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/"
                 />
   </url>
   
