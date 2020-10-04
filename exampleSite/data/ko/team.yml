@@ -6,62 +6,62 @@ team:
     # team member loop
     - name : Sung Kim
       image : images/team/sung_kim.jpg
-      designation : CEO/Founder
-      content : "소프트웨어 엔지니어링과 머신러닝을 연구하는 학자. [모두를 위한 딥러닝](https://hunkim.github.io/ml/) 강사. 전 Clova AI Head."
+      designation : CEO
+      content : "소프트웨어공학과 AI를 사랑하는 개발자/연구자/사업가. [모두를 위한 딥러닝](https://hunkim.github.io/ml/) 강사. 전 네이버 Clova AI Head."
 
     # team member loop
     - name : Hwalsuk Lee
       image : images/team/hwalsuk_lee.jpg
-      designation : Founder
-      content : "머신러닝 총괄 및 컴퓨터 비전 엔지니어. 전 Naver Clova Visual AI 책임리더."
+      designation : CTO
+      content : "연구와 비지니스 모두를 사랑하는 사람. 컴퓨터비전 엔지니어. 전 네이버 Clova 임원."
 
     # team member loop
     - name : Lucy Park
       image : images/team/lucy_park.jpg
-      designation : Founder
+      designation : CSO
       content : "자연어처리 엔지니어. [KoNLPy](http://konlpy.org/) 메인테이너. 전 네이버 파파고 기계번역팀 리더."
 
     # team member loop
     - name : Henny Son
       image : images/team/henny_son.jpg
-      designation : Founder
-      content : "AI 교육 프로그램 기획 및 비즈니스 전략 기획. 전 NVIDIA 개발 프로그램 마케팅 리더."
+      designation : Director of Marketing and AI Education
+      content : "선한 영향력과 좋은 에너지를 전하는 사람. 전 NVIDIA Developer Program Marketing 매니저."
 
     # team member loop
     - name : Sanghoon Kim
       image : images/team/sanghoon_kim.jpg
-      designation : Founder
-      content : "교육 프로그램 설계. [캐글 그랜드마스터](https://www.kaggle.com/limerobot). 전 eBay Korea 머신러닝 엔지니어."
+      designation : Kaggler
+      content : "[캐글 그랜드마스터](https://www.kaggle.com/limerobot). 캐글에 심각하게 중독되었으나 요즘은 잠시 쉬고 있습니다."
 
     # team member loop
     - name : Jenny Moon
       image : images/team/jenny_moon.jpg
-      designation : Founder
-      content : "자연어처리 엔지니어 및 데이터 과학자. 전 파파고 기계번역팀 엔지니어."
+      designation : Research Engineer
+      content : "자연어처리 리서치 엔지니어. 사람들의 삶에 긍정적인 변화를 주는 연구와 제품 개발을 하고 싶습니다."
 
     # team member loop
     - name : Sungjoon Park
       image : images/team/sungjoon_park.jpg
-      designation : Founder
-      content : "자연어처리 연구자. 전 Google PhD Fellowship Award (NLP) 수상."
+      designation : Research Engineer
+      content : "자연어처리 엔지니어. 의미있는 AI 서비스를 위한 기술 연구 및 개발을 지향합니다."
 
     # team member loop
     - name : Junyeop Lee
       image : images/team/junyeop_lee.jpg
-      designation : Founder
-      content : "머신러닝 연구, 서버 개발자. 전 네이버 클로바 OCR 팀 테크리더."
+      designation : ML Engineer
+      content : "머신러닝 엔지니어. AI 가 Product가 되기까지의 모든 일을 좋아합니다. 전 네이버 Clova AI OCR팀 테크리더."
 
     # team member loop
     - name : Yura Sim
       image : images/team/yura_sim.jpg
-      designation : Founder
-      content : "경영지원 및 기획. 전 네이버 경영지원팀."
+      designation : Manager
+      content : "모든 문제 해결사! 어려운 일도 웃으면서 쉽게 해결. 전 법무법인태평양과 네이버 직원."
 
     # team advisor loop
     - name : Russell Kim
       image : images/team/russell_kim.jpg
       designation : Advisor
-      content : "추천시스템 기술 자문. 현 HKUST CSE 박사과정. 전 카카오 AI기술팀 팀장."
+      content : "80대까지 연구하며 일하기를 원하는 사람. 전 카카오 AI기술팀 리더."
 
     # team advisor loop
     - name : Lei Chen
@@ -73,7 +73,7 @@ team:
     - name : Jungwoo Ha
       image : images/team/jungwoo_ha.jpg
       designation : Advisor
-      content : "기술 자문. 현 네이버 클로바 AI 연구팀 리더"
+      content : "기술 자문. 현 네이버 클로바 AI 연구팀 리더."
 
     # team advisor loop
     - name : Kyunghyun Cho

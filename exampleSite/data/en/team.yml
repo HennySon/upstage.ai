@@ -6,77 +6,77 @@ team:
     # team member loop
     - name : Sung Kim
       image : images/team/sung_kim.jpg
-      designation : CEO/Founder
-      content : ""
+      designation : CEO
+      content : "Researcher and teacher in Software engineering and machine learning areas. Former NAVER Clova AI Head."
 
     # team member loop
     - name : Hwalsuk Lee
       image : images/team/hwalsuk_lee.jpg
-      designation : Founder
-      content : ""
+      designation : CTO
+      content : "Lover of research and industry. Computer Vision Engineer. Former NAVER Clova Executive Officer."
 
     # team member loop
     - name : Lucy Park
       image : images/team/lucy_park.jpg
-      designation : Founder
-      content : ""
+      designation : CSO
+      content : "NLP Engineer. [KoNLPy](https://konlpy.org) maintainer. Former NAVER machine translation modeling team leader."
 
     # team member loop
     - name : Henny Son
       image : images/team/henny_son.jpg
-      designation : Founder
-      content : ""
+      designation : Director of Marketing and AI Education
+      content : "Spreading good vibes, kindness, and positive influence. Former NVIDIA Program Marketing Manager."
 
     # team member loop
     - name : Sanghoon Kim
       image : images/team/sanghoon_kim.jpg
-      designation : Founder
-      content : ""
+      designation : Kaggler
+      content : "Kaggle Grandmaster. I am really addicted to Kaggle, but taking a break these days."
 
     # team member loop
     - name : Jenny Moon
       image : images/team/jenny_moon.jpg
-      designation : Founder
-      content : ""
+      designation : Research Engineer
+      content : "NLP Research Engineer. Hope to do research and develop products that have a great impact on human life."
 
     # team member loop
     - name : Sungjoon Park
       image : images/team/sungjoon_park.jpg
-      designation : Founder
-      content : ""
+      designation : Research Engineer
+      content : "Research engineer conducting R&D for beneficial AI products."
 
     # team member loop
     - name : Junyeop Lee
       image : images/team/junyeop_lee.jpg
-      designation : Founder
-      content : ""
+      designation : ML Engineer
+      content : "Machine learning engineer. Former technical leader at NAVER Clova AI OCR."
 
     # team member loop
     - name : Yura Sim
       image : images/team/yura_sim.jpg
-      designation : Founder
-      content : ""
+      designation : Manager
+      content : "Excellent troubleshooter. Worked at Naver and Pacific (BAE, KIM & LEE) LLC."
 
     # team advisor loop
     - name : Russell Kim
       image : images/team/russell_kim.jpg
       designation : Advisor
-      content : ""
+      content : "Lifelong researcher. Balancer.  Former Director of AI Technology Team at KAKAO."
 
     # team advisor loop
     - name : Lei Chen
       image : images/team/lei_chen.jpg
       designation : Advisor
-      content : ""
+      content : "Professor at HKUST."
 
     # team advisor loop
     - name : Jungwoo Ha
       image : images/team/jungwoo_ha.jpg
       designation : Advisor
-      content : ""
+      content : "Head of NAVER AI."
 
     # team advisor loop
     - name : Kyunghyun Cho
       image : images/team/kyunghyun_cho.jpg
       designation : Advisor
-      content : ""
+      content : "Professor at NYU."
