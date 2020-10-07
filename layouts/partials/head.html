@@ -8,6 +8,10 @@
 	{{ with site.Params.author }}
 	<meta name="author" content="{{ . }}">{{ end }}
 	{{ hugo.Generator }}
+	<meta property="og:title" content="{{ .Title }}">
+	<meta property="og:image" content="{{ `images/favicon.png` | absURL }}">
+	<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
+	<meta name="twitter:card" content="{{ `images/favicon.png` | absURL }}">
 
 	{{ "<!-- plugins -->" | safeHTML }}
 	{{ range site.Params.plugins.css }}
