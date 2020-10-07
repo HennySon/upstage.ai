@@ -2,7 +2,7 @@ run:
 	cd exampleSite && hugo server --themesDir ../..
 
 build:
-	cd exampleSite && hugo -D --themesDir ../..
+	cd exampleSite && hugo -D --themesDir ../.. --minify
 
 deploy-init:
 	cd exampleSite/public && \
