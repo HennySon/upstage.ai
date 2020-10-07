@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "/"
+baseURL = "https://beta.upstage.ai"
 title = "Upstage -- Making AI Beneficial"
 theme = "meghna-hugo"
 defaultContentLanguageInSubdir = true
@@ -63,7 +63,9 @@ link = "plugins/google-map/map.js"
 [params]
 logo = "images/logo.png"
 # Meta data
+title = "Upstage"
 description = "We aim to accelerate AI transformation and benefit the world with AI."
+images = ["images/thumbnail.png"]
 author = "Upstage"
 # Google Analytics
 google_analytics_id = "UA-179083713-1"
