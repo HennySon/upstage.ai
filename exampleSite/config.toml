@@ -2,7 +2,6 @@
 baseURL = "https://beta.upstage.ai"
 title = "Upstage -- Making AI Beneficial"
 theme = "meghna-hugo"
-defaultContentLanguageInSubdir = true
 
 # post pagination
 paginate = "6"
