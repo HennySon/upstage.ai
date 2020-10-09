@@ -52,10 +52,10 @@ team:
       content : "머신러닝 엔지니어. AI 가 Product가 되기까지의 모든 일을 좋아합니다. 전 네이버 Clova AI OCR팀 테크리더."
 
     # team member loop
-    - name : Yura Sim
-      image : images/team/yura_sim.jpg
-      designation : Manager
-      content : "모든 문제 해결사! 어려운 일도 웃으면서 쉽게 해결. 전 법무법인태평양과 네이버 직원."
+    # - name : Yura Sim
+    #   image : images/team/yura_sim.jpg
+    #   designation : Manager
+    #   content : "모든 문제 해결사! 어려운 일도 웃으면서 쉽게 해결. 전 법무법인태평양과 네이버 직원."
 
     # team advisor loop
     - name : Russell Kim

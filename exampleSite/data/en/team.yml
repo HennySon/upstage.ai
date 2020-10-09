@@ -52,10 +52,10 @@ team:
       content : "Machine learning engineer. Former technical leader at NAVER Clova AI OCR."
 
     # team member loop
-    - name : Yura Sim
-      image : images/team/yura_sim.jpg
-      designation : Manager
-      content : "Excellent troubleshooter. Worked at Naver and Pacific (BAE, KIM & LEE) LLC."
+    # - name : Yura Sim
+    #   image : images/team/yura_sim.jpg
+    #   designation : Manager
+    #   content : "Excellent troubleshooter. Worked at Naver and Pacific (BAE, KIM & LEE) LLC."
 
     # team advisor loop
     - name : Russell Kim
