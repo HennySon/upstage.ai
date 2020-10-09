@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://beta.upstage.ai"
 title = "Upstage -- Making AI Beneficial"
-theme = "meghna-hugo"
+theme = "upstage.ai"
 
 # post pagination
 paginate = "6"
