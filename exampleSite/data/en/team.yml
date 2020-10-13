@@ -30,7 +30,7 @@ team:
     # team member loop
     - name : Sanghoon Kim
       image : images/team/sanghoon_kim.jpg
-      designation : Kaggler
+      designation : AI Challenge Director
       content : "Kaggle Grandmaster. I am really addicted to Kaggle, but taking a break these days."
 
     # team member loop

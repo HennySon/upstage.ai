@@ -30,7 +30,7 @@ team:
     # team member loop
     - name : Sanghoon Kim
       image : images/team/sanghoon_kim.jpg
-      designation : Kaggler
+      designation :  AI Challenge Director
       content : "[캐글 그랜드마스터](https://www.kaggle.com/limerobot). 캐글에 심각하게 중독되었으나 요즘은 잠시 쉬고 있습니다."
 
     # team member loop
