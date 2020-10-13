@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://beta.upstage.ai"
+baseURL = "https://upstage.ai"
 title = "Upstage -- Making AI Beneficial"
 theme = "upstage.ai"
 
