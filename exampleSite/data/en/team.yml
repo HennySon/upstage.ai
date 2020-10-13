@@ -71,7 +71,7 @@ team:
 
     # team advisor loop
     - name : Jungwoo Ha
-      image : images/team/jungwoo_ha.jpg
+      image : images/team/jungwoo_ha.png
       designation : Advisor
       content : "Head of NAVER AI."
 
