@@ -42,20 +42,20 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 
 ############################# Navigation ##################################
-# [[menu.main]]
-# name = "about"
-# URL = "about"
-# weight = 1
-# 
-# [[menu.main]]
-# name = "news"
-# URL = "news"
-# weight = 2
-# 
-# [[menu.static]]
-# name = "careers"
-# URL = "https://careers.upstage.ai"
-# weight = 3
+[[menu.main]]
+name = "about"
+URL = "about"
+weight = 1
+
+[[menu.main]]
+name = "news"
+URL = "news"
+weight = 2
+
+[[menu.static]]
+name = "careers"
+URL = "https://careers.upstage.ai"
+weight = 3
 
 
 ############################# Default Parameters ##########################
