@@ -30,7 +30,7 @@ team:
     # team member loop
     - name : Sanghoon Kim
       image : images/team/sanghoon_kim.jpg
-      designation : Kaggler
+      designation : AI Challenge Director
       content : "Kaggle Grandmaster. I am really addicted to Kaggle, but taking a break these days."
 
     # team member loop
@@ -71,7 +71,7 @@ team:
 
     # team advisor loop
     - name : Jungwoo Ha
-      image : images/team/jungwoo_ha.jpg
+      image : images/team/jungwoo_ha.png
       designation : Advisor
       content : "Head of NAVER AI."
 

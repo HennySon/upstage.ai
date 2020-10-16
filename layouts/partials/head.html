@@ -22,9 +22,6 @@
 	{{ $styles := resources.Get "css/style.css" | minify | fingerprint "sha384" }}
 	<link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
 
-  {{"<!-- Custom stylesheet - for your changes -->" |safeHTML}}
-  <link rel="stylesheet" href="{{ `css/custom.css` | relURL}}" media="screen">
-
 	{{ "<!--Favicon-->" | safeHTML }}
 	<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">

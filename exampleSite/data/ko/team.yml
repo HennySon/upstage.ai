@@ -30,7 +30,7 @@ team:
     # team member loop
     - name : Sanghoon Kim
       image : images/team/sanghoon_kim.jpg
-      designation : Kaggler
+      designation :  AI Challenge Director
       content : "[캐글 그랜드마스터](https://www.kaggle.com/limerobot). 캐글에 심각하게 중독되었으나 요즘은 잠시 쉬고 있습니다."
 
     # team member loop
@@ -71,9 +71,9 @@ team:
 
     # team advisor loop
     - name : Jungwoo Ha
-      image : images/team/jungwoo_ha.jpg
+      image : images/team/jungwoo_ha.png
       designation : Advisor
-      content : "기술 자문. 현 네이버 클로바 AI 연구팀 리더."
+      content : "기술 자문. 현 네이버 AI 연구소 소장."
 
     # team advisor loop
     - name : Kyunghyun Cho
